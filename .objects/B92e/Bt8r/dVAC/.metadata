@@ -1,0 +1,15 @@
+﻿{
+  "Id": "dVACcvmuDUutb04Ltn9QJg",
+  "Reference": "-Z7FTRFSFUyvPqf7zCvcog/dVACcvmuDUutb04Ltn9QJg",
+  "ParentRef": "-Z7FTRFSFUyvPqf7zCvcog/Bt8rYe_bvUyF5OYJf213PQ",
+  "Name": "Chrome: Oracle Fusion Cloud Applications logout",
+  "Type": "Screen",
+  "Created": "2022-12-05T12:09:47.59111Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-05T12:10:16.6992035Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

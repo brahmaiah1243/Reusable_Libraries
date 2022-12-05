@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="C1bUZVopGE29bjVaWtFWgg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://ehsg-dev1.fa.us6.oraclecloud.com/fscmUI/faces/FuseWelcome?_afrLoop=49797487008598276&amp;_afrWindowMode=0&amp;_afrWindowId=null&amp;_adf.ctrl-state=12c0apvk5t_1&amp;_afrFS=16&amp;_afrMT=screen&amp;_afrMFW=1280&amp;_afrMFH=577&amp;_afrMFDW=1280&amp;_afrMFDH=720&amp;_afrMFC=8&amp;_afrMFCI=0&amp;_afrMFM=0&amp;_afrMFR=144&amp;_afrMFG=0&amp;_afrMFS=0&amp;_afrMFO=0" DesignTimeRectangle="29, 200, 36, 36" DesignTimeScaleFactor="1.5" ElementType="Icon" FriendlyName="'Navigator'" FullSelectorArgument="&lt;webctrl tableRow='1' tag='TABLE' /&gt;&lt;webctrl tableRow='1' tag='svg' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='svg' class='svg-bkgd06 xi6' aaname='' check:text='Navigator' /&gt;" Guid="5bd125d2-4703-4f37-ba10-a268f9203f35" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAACCSURBVFhH7dTBCYAwEERRK7IKjxajRZgC0oJgAyKWkBbSzUrue5EhIYF/eOf9JDDTnbL1jEAVgSoCVQSqxgw832R7iE2Vm16LGxivx+Zlbarc9FrGDCzPvR2xqV9f3BMCVQSq3ECG2sFQqxjqWghUjRnIUDsYahVDXQuBKgJVBGqyfbz7JqYpi1IbAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='oe3m2qkzo' title='Oracle Fusion Cloud Applications' /&gt;" SearchSteps="FuzzySelector, Image" Version="V1" Visibility="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset X="3" Y="-5" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="f991e7857c54cafffaaa51f5ab5a67ad.png" xmlns="">0GPgDeAJMs0mOoSbfcw4TLA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

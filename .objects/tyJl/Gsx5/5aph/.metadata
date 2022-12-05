@@ -1,0 +1,15 @@
+﻿{
+  "Id": "5aphXz0FxkO-rnb3Zr2h_g",
+  "Reference": "-Z7FTRFSFUyvPqf7zCvcog/5aphXz0FxkO-rnb3Zr2h_g",
+  "ParentRef": "-Z7FTRFSFUyvPqf7zCvcog/Gsx5Pcw_602pkSSocSEkNw",
+  "Name": "Oracle: Sign In",
+  "Type": "Screen",
+  "Created": "2022-12-05T09:00:34.3154159Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-05T11:42:06.2891281Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "5PN9YNvgQUWYiYYy7-0V3Q",
+  "Reference": "-Z7FTRFSFUyvPqf7zCvcog/5PN9YNvgQUWYiYYy7-0V3Q",
+  "ParentRef": "-Z7FTRFSFUyvPqf7zCvcog/dVACcvmuDUutb04Ltn9QJg",
+  "Name": "Check App State 'Account Settings'",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Created": "2022-12-05T16:21:58.6312524Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-05T16:21:58.6312524Z"
+}

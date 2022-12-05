@@ -1,0 +1,11 @@
+﻿{
+  "Id": "B92eruArJ0Wscqh2yyWwQg",
+  "Reference": "-Z7FTRFSFUyvPqf7zCvcog/B92eruArJ0Wscqh2yyWwQg",
+  "Name": "Chrome: Oracle Fusion Cloud Applications app",
+  "Type": "App",
+  "Created": "2022-12-05T12:09:47.5783157Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-05T12:09:47.5783157Z"
+}

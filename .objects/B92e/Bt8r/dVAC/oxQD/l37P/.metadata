@@ -1,0 +1,13 @@
+﻿{
+  "Id": "l37PbHDcc0ORuoXqkgnRkQ",
+  "Reference": "-Z7FTRFSFUyvPqf7zCvcog/l37PbHDcc0ORuoXqkgnRkQ",
+  "ParentRef": "-Z7FTRFSFUyvPqf7zCvcog/oxQDzTpjL0-FkCbUjjT8bQ",
+  "Name": "Confirm",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-12-05T12:09:47.8274734Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-05T12:09:47.8274734Z"
+}

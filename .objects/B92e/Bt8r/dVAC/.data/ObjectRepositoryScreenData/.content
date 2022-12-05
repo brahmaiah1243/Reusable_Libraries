@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="WUbWPp50Kkypz0VBZgJ-iA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFFSURBVDhPnZJZTsNAEESt7OtHjpQD5CNHyklyFrawYwirQBAQAiEQCAQiIJamnu2xHFtAYKQnW9Nd1TM97e0VCjYNuxE7YjvCYxG0ZvPPbIUGnaxBq2XWbmdhP5G3mc+nDEjo9+3HRVx5H42G+RkD3w+TRiOzXi8L+yzlvcpgY8Kg242D6aPCJ1/2XRHlr00YUCEKpMUc911QNS6k/NXfDKiK+E281Ov2LJIGK86At40D0RWSVccSPiFOXWHJGTAYQVUXnKKJ5+WyLToDJiowoMKUz3hSKtkglwsNhjJI3jUw+maQTiU8FofFos07A0YyedeHWs3uqlW7EVeVil3ouGeCqkcSHgj6NucMGEk6/CjhvbiV8FrCS8Fdk1X3JaRnQ2lmnQEjyVStC4aD51kWdJlGDcSCkjkyVQHxjAgMosXPP/A6X4CZKcozoWSPAAAAAElFTkSuQmCC" Selector="&lt;html app='chrome.exe' htmlwindowname='12eajxo5zt' title='Oracle Fusion Cloud Applications' /&gt;" Title="Oracle Fusion Cloud Applications" Url="https://ehsg-dev1.fa.us6.oraclecloud.com/fscmUI/faces/FuseWelcome?_afrLoop=49787932408141060&amp;_afrWindowMode=0&amp;_afrWindowId=k1h52av9&amp;_adf.ctrl-state=km6xtohk3_1&amp;_afrFS=16&amp;_afrMT=screen&amp;_afrMFW=1280&amp;_afrMFH=577&amp;_afrMFDW=1280&amp;_afrMFDH=720&amp;_afrMFC=8&amp;_afrMFCI=0&amp;_afrMFM=0&amp;_afrMFR=144&amp;_afrMFG=0&amp;_afrMFS=0&amp;_afrMFO=0">
+      <imageRef attrName="InformativeScreenshot" originalValue="e0895504386b7b6c2d854d564cc9c329.jpg" xmlns="">0LIeVDLhAikmhIWNN__nQrw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

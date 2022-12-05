@@ -1,0 +1,16 @@
+﻿{
+  "Id": "4d-eJHs5gUK3DbNCUaBGFQ",
+  "Reference": "-Z7FTRFSFUyvPqf7zCvcog/4d-eJHs5gUK3DbNCUaBGFQ",
+  "ParentRef": "-Z7FTRFSFUyvPqf7zCvcog/5aphXz0FxkO-rnb3Zr2h_g",
+  "Name": "CheckForNavigator Menu",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Created": "2022-12-05T11:42:06.421471Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-05T11:55:16.6589538Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

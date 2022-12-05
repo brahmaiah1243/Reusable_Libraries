@@ -1,0 +1,14 @@
+﻿{
+  "Id": "tyJlaWonQkGs0cgpaDnsmA",
+  "Reference": "-Z7FTRFSFUyvPqf7zCvcog/tyJlaWonQkGs0cgpaDnsmA",
+  "Name": "Chrome: Oracle Sign In app",
+  "Type": "App",
+  "Created": "2022-12-05T09:00:34.2864042Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-05T09:03:52.6078444Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

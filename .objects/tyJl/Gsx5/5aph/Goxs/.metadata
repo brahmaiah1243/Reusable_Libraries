@@ -1,0 +1,13 @@
+﻿{
+  "Id": "Goxsl6XKAU2FHHBs-ciCHA",
+  "Reference": "-Z7FTRFSFUyvPqf7zCvcog/Goxsl6XKAU2FHHBs-ciCHA",
+  "ParentRef": "-Z7FTRFSFUyvPqf7zCvcog/5aphXz0FxkO-rnb3Zr2h_g",
+  "Name": "Sign In",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-12-05T09:00:34.5251739Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-05T09:00:34.5251739Z"
+}

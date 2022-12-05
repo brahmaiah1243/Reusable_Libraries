@@ -1,0 +1,15 @@
+﻿{
+  "Id": "Gsx5Pcw_602pkSSocSEkNw",
+  "Reference": "-Z7FTRFSFUyvPqf7zCvcog/Gsx5Pcw_602pkSSocSEkNw",
+  "ParentRef": "-Z7FTRFSFUyvPqf7zCvcog/tyJlaWonQkGs0cgpaDnsmA",
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Created": "2022-12-05T09:00:34.3066405Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-05T09:03:52.7524986Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
